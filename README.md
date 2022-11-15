@@ -1,6 +1,6 @@
 This repository provided all source data and codes for generation of all results in the Meta_SNV_2157 manuscript.
 
-*Go beyond “abundance”: cross-cohort single-nucleotide-variant profiling of gut microbiota suggests a novel gut-health assessment approach*.Correspondence: Jiachao Zhang (E-mail: **zhjch321123@163.com**) and Shi Huang (E-mail: **shihuang@hku.hk**)
+*Cross-cohort single-nucleotide-variant profiling of gut microbiota suggests a novel gut-health assessment approach*.Correspondence: Jiachao Zhang (E-mail: **zhjch321123@163.com**) and Shi Huang (E-mail: **shihuang@hku.hk**)
 
 we generate three feature tables for building up a predictive index for health status (i.e., GMHI)
 * the sequence abundance profiles for all mutated genomes
